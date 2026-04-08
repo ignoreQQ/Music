@@ -1,2 +1,2 @@
 # Music
-Music for an app.
+Music
