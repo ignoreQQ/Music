@@ -1,0 +1,922 @@
+[
+  {
+    "startTime": 0.92,
+    "words": [
+      {
+        "text": "昼下",
+        "furigana": "ひるさ"
+      },
+      {
+        "text": "がりの",
+        "furigana": null
+      },
+      {
+        "text": "廊下",
+        "furigana": "ろうか"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "歩",
+        "furigana": "ある"
+      },
+      {
+        "text": "いていると",
+        "furigana": null
+      }
+    ],
+    "translation": "走在午後的走廊上"
+  },
+  {
+    "startTime": 6.74,
+    "words": [
+      {
+        "text": "誰",
+        "furigana": "だれ"
+      },
+      {
+        "text": "かが",
+        "furigana": null
+      },
+      {
+        "text": "肩",
+        "furigana": "かた"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "叩",
+        "furigana": "たた"
+      },
+      {
+        "text": "きました",
+        "furigana": null
+      }
+    ],
+    "translation": "有人輕拍我的肩膀"
+  },
+  {
+    "startTime": 12.04,
+    "words": [
+      {
+        "text": "振",
+        "furigana": "ふ"
+      },
+      {
+        "text": "り",
+        "furigana": null
+      },
+      {
+        "text": "返",
+        "furigana": "かえ"
+      },
+      {
+        "text": "るとそれは",
+        "furigana": null
+      },
+      {
+        "text": "思",
+        "furigana": "おも"
+      },
+      {
+        "text": "った",
+        "furigana": null
+      },
+      {
+        "text": "通",
+        "furigana": "とお"
+      },
+      {
+        "text": "り",
+        "furigana": null
+      }
+    ],
+    "translation": "回頭一看 果然不出所料"
+  },
+  {
+    "startTime": 18.8,
+    "words": [
+      {
+        "text": "いたずら",
+        "furigana": null
+      },
+      {
+        "text": "好",
+        "furigana": "ず"
+      },
+      {
+        "text": "きの",
+        "furigana": null
+      },
+      {
+        "text": "君",
+        "furigana": "きみ"
+      },
+      {
+        "text": "でした",
+        "furigana": null
+      }
+    ],
+    "translation": "是愛惡作劇的你"
+  },
+  {
+    "startTime": 23.54,
+    "words": [
+      {
+        "text": "思",
+        "furigana": "おも"
+      },
+      {
+        "text": "っていたよりもずっと",
+        "furigana": null
+      },
+      {
+        "text": "早",
+        "furigana": "はや"
+      },
+      {
+        "text": "く",
+        "furigana": null
+      }
+    ],
+    "translation": "比想像中還要快"
+  },
+  {
+    "startTime": 29.98,
+    "words": [
+      {
+        "text": "君",
+        "furigana": "きみ"
+      },
+      {
+        "text": "も",
+        "furigana": null
+      },
+      {
+        "text": "大人",
+        "furigana": "おとな"
+      },
+      {
+        "text": "らしくなりましたね",
+        "furigana": null
+      }
+    ],
+    "translation": "你也變得像個大人了呢"
+  },
+  {
+    "startTime": 35.68,
+    "words": [
+      {
+        "text": "だけど",
+        "furigana": null
+      },
+      {
+        "text": "子供",
+        "furigana": "こども"
+      },
+      {
+        "text": "みたいに いつまでも",
+        "furigana": null
+      }
+    ],
+    "translation": "但是請你永遠像個孩子一樣"
+  },
+  {
+    "startTime": 41.3,
+    "words": [
+      {
+        "text": "間違",
+        "furigana": "まちが"
+      },
+      {
+        "text": "いだらけの",
+        "furigana": null
+      },
+      {
+        "text": "君",
+        "furigana": "きみ"
+      },
+      {
+        "text": "でいてください",
+        "furigana": null
+      }
+    ],
+    "translation": "當那個錯誤百出的你"
+  },
+  {
+    "startTime": 47.49,
+    "words": [
+      {
+        "text": "Teacher あなたは",
+        "furigana": null
+      },
+      {
+        "text": "誰",
+        "furigana": "だれ"
+      },
+      {
+        "text": "よりも",
+        "furigana": null
+      }
+    ],
+    "translation": "Teacher 你是比任何人都"
+  },
+  {
+    "startTime": 52.94,
+    "words": [
+      {
+        "text": "怖",
+        "furigana": "こわ"
+      },
+      {
+        "text": "くて",
+        "furigana": null
+      },
+      {
+        "text": "優",
+        "furigana": "やさ"
+      },
+      {
+        "text": "しい",
+        "furigana": null
+      },
+      {
+        "text": "大切",
+        "furigana": "たいせつ"
+      },
+      {
+        "text": "な",
+        "furigana": null
+      },
+      {
+        "text": "人",
+        "furigana": "ひと"
+      }
+    ],
+    "translation": "令人又敬畏又溫柔 重要的人"
+  },
+  {
+    "startTime": 58.6,
+    "words": [
+      {
+        "text": "だから、Teacher ",
+        "furigana": null
+      },
+      {
+        "text": "僕",
+        "furigana": "ぼく"
+      },
+      {
+        "text": "らはこれからも",
+        "furigana": null
+      }
+    ],
+    "translation": "所以,Teacher 我們從今以後"
+  },
+  {
+    "startTime": 64.54,
+    "words": [
+      {
+        "text": "あなたの",
+        "furigana": null
+      },
+      {
+        "text": "言葉",
+        "furigana": "ことば"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "忘",
+        "furigana": "わす"
+      },
+      {
+        "text": "れないよ",
+        "furigana": null
+      }
+    ],
+    "translation": "也不會忘記你說過的話"
+  },
+  {
+    "startTime": 81.0,
+    "words": [
+      {
+        "text": "影",
+        "furigana": "かげ"
+      },
+      {
+        "text": "が",
+        "furigana": null
+      },
+      {
+        "text": "伸",
+        "furigana": "の"
+      },
+      {
+        "text": "びる",
+        "furigana": null
+      },
+      {
+        "text": "歩道",
+        "furigana": "ほどう"
+      },
+      {
+        "text": " すれ",
+        "furigana": null
+      },
+      {
+        "text": "違",
+        "furigana": "ちが"
+      },
+      {
+        "text": "う",
+        "furigana": null
+      },
+      {
+        "text": "人",
+        "furigana": "ひと"
+      }
+    ],
+    "translation": "影子拉⻑的步道 擦身而過的人們"
+  },
+  {
+    "startTime": 88.28,
+    "words": [
+      {
+        "text": "誰",
+        "furigana": "だれ"
+      },
+      {
+        "text": "の",
+        "furigana": null
+      },
+      {
+        "text": "名前",
+        "furigana": "なまえ"
+      },
+      {
+        "text": "も",
+        "furigana": null
+      },
+      {
+        "text": "知",
+        "furigana": "し"
+      },
+      {
+        "text": "らないけど",
+        "furigana": null
+      }
+    ],
+    "translation": "雖然不知道他們的名字"
+  },
+  {
+    "startTime": 94.24,
+    "words": [
+      {
+        "text": "振",
+        "furigana": "ふ"
+      },
+      {
+        "text": "り",
+        "furigana": null
+      },
+      {
+        "text": "返",
+        "furigana": "かえ"
+      },
+      {
+        "text": "ればいつも",
+        "furigana": null
+      },
+      {
+        "text": "思",
+        "furigana": "おも"
+      },
+      {
+        "text": "い",
+        "furigana": null
+      },
+      {
+        "text": "出",
+        "furigana": "だ"
+      },
+      {
+        "text": "します",
+        "furigana": null
+      }
+    ],
+    "translation": "但每當回首 總會想起"
+  },
+  {
+    "startTime": 99.74,
+    "words": [
+      {
+        "text": "名前",
+        "furigana": "なまえ"
+      },
+      {
+        "text": "をつけてくれたこと",
+        "furigana": null
+      }
+    ],
+    "translation": "你為我們取名字的那件事"
+  },
+  {
+    "startTime": 105.56,
+    "words": [
+      {
+        "text": "思",
+        "furigana": "おも"
+      },
+      {
+        "text": "って",
+        "furigana": null
+      },
+      {
+        "text": "いるよりもずっと",
+        "furigana": null
+      },
+      {
+        "text": "⻑",
+        "furigana": null
+      },
+      {
+        "text": "く",
+        "furigana": null
+      }
+    ],
+    "translation": "比想像中還要漫⻑"
+  },
+  {
+    "startTime": 111.62,
+    "words": [
+      {
+        "text": "道",
+        "furigana": "みち"
+      },
+      {
+        "text": "のりはまだまだ",
+        "furigana": null
+      },
+      {
+        "text": "続",
+        "furigana": "つづ"
+      },
+      {
+        "text": "きますよ",
+        "furigana": null
+      }
+    ],
+    "translation": "這條路途還會持續很久喔"
+  },
+  {
+    "startTime": 117.82,
+    "words": [
+      {
+        "text": "だけどたまには ",
+        "furigana": null
+      },
+      {
+        "text": "何",
+        "furigana": "なに"
+      },
+      {
+        "text": "も ",
+        "furigana": null
+      },
+      {
+        "text": "考",
+        "furigana": "かんが"
+      },
+      {
+        "text": " えず",
+        "furigana": null
+      }
+    ],
+    "translation": "但是 偶爾也請什麼都別想"
+  },
+  {
+    "startTime": 123.28,
+    "words": [
+      {
+        "text": "ふざけてばかりの",
+        "furigana": null
+      },
+      {
+        "text": "君",
+        "furigana": "きみ"
+      },
+      {
+        "text": "でいてください",
+        "furigana": null
+      }
+    ],
+    "translation": "當那個只會嬉鬧玩耍的你"
+  },
+  {
+    "startTime": 129.24,
+    "words": [
+      {
+        "text": "Teacher あなたは",
+        "furigana": null
+      },
+      {
+        "text": "誰",
+        "furigana": "だれ"
+      },
+      {
+        "text": "よりも",
+        "furigana": null
+      }
+    ],
+    "translation": "Teacher 你比任何人都"
+  },
+  {
+    "startTime": 134.82,
+    "words": [
+      {
+        "text": "近",
+        "furigana": "ちか"
+      },
+      {
+        "text": "くて",
+        "furigana": null
+      },
+      {
+        "text": "届",
+        "furigana": "とど"
+      },
+      {
+        "text": "かない",
+        "furigana": null
+      },
+      {
+        "text": "憎",
+        "furigana": "にく"
+      },
+      {
+        "text": "らしい",
+        "furigana": null
+      },
+      {
+        "text": "人",
+        "furigana": "ひと"
+      }
+    ],
+    "translation": "親近卻又遙不可及 是個可恨的人"
+  },
+  {
+    "startTime": 140.24,
+    "words": [
+      {
+        "text": "だから、Teacher ",
+        "furigana": null
+      },
+      {
+        "text": "僕",
+        "furigana": "ぼく"
+      },
+      {
+        "text": "らはいつの",
+        "furigana": null
+      },
+      {
+        "text": "日",
+        "furigana": "ひ"
+      },
+      {
+        "text": "か",
+        "furigana": null
+      }
+    ],
+    "translation": "所以,Teacher 我們總有一天"
+  },
+  {
+    "startTime": 146.5,
+    "words": [
+      {
+        "text": "あなたの",
+        "furigana": null
+      },
+      {
+        "text": "背中",
+        "furigana": "せなか"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "追",
+        "furigana": "お"
+      },
+      {
+        "text": "い",
+        "furigana": null
+      },
+      {
+        "text": "越",
+        "furigana": "こ"
+      },
+      {
+        "text": "すのさ",
+        "furigana": null
+      }
+    ],
+    "translation": "會超越你的背影"
+  },
+  {
+    "startTime": 164.86,
+    "words": [
+      {
+        "text": "いくつもの ",
+        "furigana": null
+      },
+      {
+        "text": "宝物",
+        "furigana": "たからもの"
+      },
+      {
+        "text": " ",
+        "furigana": null
+      },
+      {
+        "text": "抱",
+        "furigana": "かか"
+      },
+      {
+        "text": "えて",
+        "furigana": null
+      },
+      {
+        "text": "坂",
+        "furigana": "さか"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "駆",
+        "furigana": "か"
+      },
+      {
+        "text": "け",
+        "furigana": null
+      },
+      {
+        "text": "上",
+        "furigana": "のぼ"
+      },
+      {
+        "text": "る",
+        "furigana": null
+      }
+    ],
+    "translation": "懷抱著無數的寶物 奔跑上坡"
+  },
+  {
+    "startTime": 176.44,
+    "words": [
+      {
+        "text": "古",
+        "furigana": "ふる"
+      },
+      {
+        "text": "ぼけたあの ",
+        "furigana": null
+      },
+      {
+        "text": "教室",
+        "furigana": "きょうしつ"
+      },
+      {
+        "text": " が ",
+        "furigana": null
+      },
+      {
+        "text": "僕",
+        "furigana": "ぼく"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "待",
+        "furigana": "ま"
+      },
+      {
+        "text": "ってるから",
+        "furigana": null
+      }
+    ],
+    "translation": "因為那間老舊的教室在等著我"
+  },
+  {
+    "startTime": 191.92,
+    "words": [
+      {
+        "text": "思",
+        "furigana": "おも"
+      },
+      {
+        "text": "っているよりもずっと",
+        "furigana": null
+      },
+      {
+        "text": "多",
+        "furigana": "おお"
+      },
+      {
+        "text": "く",
+        "furigana": null
+      }
+    ],
+    "translation": "比想像中還要多"
+  },
+  {
+    "startTime": 196.8,
+    "words": [
+      {
+        "text": "君",
+        "furigana": "きみ"
+      },
+      {
+        "text": "は",
+        "furigana": null
+      },
+      {
+        "text": "色",
+        "furigana": "いろ"
+      },
+      {
+        "text": "んなことを",
+        "furigana": null
+      },
+      {
+        "text": "学",
+        "furigana": "まな"
+      },
+      {
+        "text": "びましたね",
+        "furigana": null
+      }
+    ],
+    "translation": "你已經學會了各種事情呢"
+  },
+  {
+    "startTime": 202.46,
+    "words": [
+      {
+        "text": "だから",
+        "furigana": null
+      },
+      {
+        "text": "今日",
+        "furigana": "きょう"
+      },
+      {
+        "text": "も",
+        "furigana": null
+      },
+      {
+        "text": "生",
+        "furigana": "い"
+      },
+      {
+        "text": "きているということ",
+        "furigana": null
+      }
+    ],
+    "translation": "所以今天也能活著這件事"
+  },
+  {
+    "startTime": 207.7,
+    "words": [
+      {
+        "text": "いつでも",
+        "furigana": null
+      },
+      {
+        "text": "笑顔",
+        "furigana": "えがお"
+      },
+      {
+        "text": "で",
+        "furigana": null
+      },
+      {
+        "text": "胸",
+        "furigana": "むね"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "張",
+        "furigana": "は"
+      },
+      {
+        "text": "ってください",
+        "furigana": null
+      }
+    ],
+    "translation": "請你隨時都帶著笑容挺起胸膛吧"
+  },
+  {
+    "startTime": 217.42,
+    "words": [
+      {
+        "text": "Teacher あなたは",
+        "furigana": null
+      },
+      {
+        "text": "誰",
+        "furigana": "だれ"
+      },
+      {
+        "text": "よりも",
+        "furigana": null
+      }
+    ],
+    "translation": "Teacher 你是比任何人都"
+  },
+  {
+    "startTime": 221.24,
+    "words": [
+      {
+        "text": "怖",
+        "furigana": "こわ"
+      },
+      {
+        "text": "くて",
+        "furigana": null
+      },
+      {
+        "text": "優",
+        "furigana": "やさ"
+      },
+      {
+        "text": "しい",
+        "furigana": null
+      },
+      {
+        "text": "大切",
+        "furigana": "たいせつ"
+      },
+      {
+        "text": "な",
+        "furigana": null
+      },
+      {
+        "text": "人",
+        "furigana": "ひと"
+      }
+    ],
+    "translation": "令人又敬畏又溫柔 重要的人"
+  },
+  {
+    "startTime": 226.92,
+    "words": [
+      {
+        "text": "だから、Teacher ",
+        "furigana": null
+      },
+      {
+        "text": "僕",
+        "furigana": "ぼく"
+      },
+      {
+        "text": "らはこれからも",
+        "furigana": null
+      }
+    ],
+    "translation": "所以,Teacher 我們從今以後"
+  },
+  {
+    "startTime": 232.88,
+    "words": [
+      {
+        "text": "あなたを、あなたを",
+        "furigana": null
+      },
+      {
+        "text": "忘",
+        "furigana": "わす"
+      },
+      {
+        "text": "れないよ",
+        "furigana": null
+      }
+    ],
+    "translation": "也不會忘記你的"
+  }
+]
