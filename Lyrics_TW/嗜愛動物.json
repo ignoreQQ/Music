@@ -1,6 +1,6 @@
 [
   {
-    "startTime": 35.28,
+    "startTime": 35.5,
     "words": [
       {
         "text": "車趕著路回家 響不停的電話",
@@ -10,7 +10,7 @@
     "translation": "車趕著路回家 響不停的電話"
   },
   {
-    "startTime": 64.56,
+    "startTime": 41.32,
     "words": [
       {
         "text": "生活為誰匆忙 有個人愛啊",
@@ -20,7 +20,7 @@
     "translation": "生活為誰匆忙 有個人愛啊"
   },
   {
-    "startTime": 94.82,
+    "startTime": 47.3,
     "words": [
       {
         "text": "為誰出頭買帳 聽誰傾訴抒發",
@@ -30,7 +30,7 @@
     "translation": "為誰出頭買帳 聽誰傾訴抒發"
   },
   {
-    "startTime": 122.46,
+    "startTime": 53.16,
     "words": [
       {
         "text": "瑣事總想到他 對 你愛著他",
@@ -40,7 +40,7 @@
     "translation": "瑣事總想到他 對 你愛著他"
   },
   {
-    "startTime": 140.06,
+    "startTime": 64.16,
     "words": [
       {
         "text": "他為她撐著傘 溼了半邊肩膀",
@@ -50,7 +50,7 @@
     "translation": "他為她撐著傘 溼了半邊肩膀"
   },
   {
-    "startTime": 160.76,
+    "startTime": 70.48,
     "words": [
       {
         "text": "他甘願變傻瓜 這就是愛啊",
@@ -60,7 +60,7 @@
     "translation": "他甘願變傻瓜 這就是愛啊"
   },
   {
-    "startTime": 176.8,
+    "startTime": 76.72,
     "words": [
       {
         "text": "女孩剪短頭髮 男孩化了妝",
@@ -70,7 +70,7 @@
     "translation": "女孩剪短頭髮 男孩化了妝"
   },
   {
-    "startTime": 184.22,
+    "startTime": 82.5,
     "words": [
       {
         "text": "愛著這樣的他（她）不都是愛嗎",
@@ -80,7 +80,7 @@
     "translation": "愛著這樣的他（她）不都是愛嗎"
   },
   {
-    "startTime": 195.16,
+    "startTime": 92.4,
     "words": [
       {
         "text": "嗜愛的動物啊 別怕",
@@ -90,7 +90,7 @@
     "translation": "嗜愛的動物啊 別怕"
   },
   {
-    "startTime": 222.96,
+    "startTime": 97.12,
     "words": [
       {
         "text": "我們都總得在這受點傷 是吧",
@@ -98,5 +98,125 @@
       }
     ],
     "translation": "我們都總得在這受點傷 是吧"
+  },
+  {
+    "startTime": 101.98,
+    "words": [
+      {
+        "text": "讓真正愛你的人陪著你 結痂",
+        "furigana": ""
+      }
+    ],
+    "translation": "讓真正愛你的人陪著你 結痂"
+  },
+  {
+    "startTime": 108.1,
+    "words": [
+      {
+        "text": "當天性毫無疑問的接納 愛啊",
+        "furigana": ""
+      }
+    ],
+    "translation": "當天性毫無疑問的接納 愛啊"
+  },
+  {
+    "startTime": 115.44,
+    "words": [
+      {
+        "text": "嗜愛的動物啊 示愛的動物啊",
+        "furigana": ""
+      }
+    ],
+    "translation": "嗜愛的動物啊 示愛的動物啊"
+  },
+  {
+    "startTime": 118.24,
+    "words": [
+      {
+        "text": "哭了也別害怕 擁抱儘管大方",
+        "furigana": ""
+      }
+    ],
+    "translation": "哭了也別害怕 擁抱儘管大方"
+  },
+  {
+    "startTime": 119.08,
+    "words": [
+      {
+        "text": "愛沒什麼方法 愛就是方法",
+        "furigana": ""
+      }
+    ],
+    "translation": "愛沒什麼方法 愛就是方法"
+  },
+  {
+    "startTime": 122.04,
+    "words": [
+      {
+        "text": "我們其實一樣 在小事中長大",
+        "furigana": ""
+      }
+    ],
+    "translation": "我們其實一樣 在小事中長大"
+  },
+  {
+    "startTime": 122.04,
+    "words": [
+      {
+        "text": "用不同的模樣 學會了愛啊",
+        "furigana": ""
+      }
+    ],
+    "translation": "用不同的模樣 學會了愛啊"
+  },
+  {
+    "startTime": 122.04,
+    "words": [
+      {
+        "text": "嗜愛的動物啊 別怕",
+        "furigana": ""
+      }
+    ],
+    "translation": "嗜愛的動物啊 別怕"
+  },
+  {
+    "startTime": 122.04,
+    "words": [
+      {
+        "text": "我們都總得在這受點傷 是吧",
+        "furigana": ""
+      }
+    ],
+    "translation": "我們都總得在這受點傷 是吧"
+  },
+  {
+    "startTime": 139.54,
+    "words": [
+      {
+        "text": "讓真正愛你的人陪著你 結痂",
+        "furigana": ""
+      }
+    ],
+    "translation": "讓真正愛你的人陪著你 結痂"
+  },
+  {
+    "startTime": 144.2,
+    "words": [
+      {
+        "text": "當天性毫無疑問的接納 愛啊",
+        "furigana": ""
+      }
+    ],
+    "translation": "當天性毫無疑問的接納 愛啊"
+  },
+  {
+    "startTime": 148.26,
+    "words": [
+      {
+        "text": "嗜愛的動物啊 是愛的動物啊",
+        "furigana": ""
+      }
+    ],
+    "translation": "嗜愛的動物啊 是愛的動物啊"
   }
 ]
