@@ -1,6 +1,16 @@
 [
   {
-    "startTime": 32.43,
+    "startTime": 26.26,
+    "words": [
+      {
+        "text": "你是時間的安排",
+        "furigana": ""
+      }
+    ],
+    "translation": "你是時間的安排"
+  },
+  {
+    "startTime": 50.78,
     "words": [
       {
         "text": "還是純屬於意外",
@@ -10,17 +20,17 @@
     "translation": "還是純屬於意外"
   },
   {
-    "startTime": 50.74,
+    "startTime": 79.84,
     "words": [
       {
-        "text": "屬於自然 屬於突然 哪一派",
+        "text": "屬於自然屬於突然哪一派",
         "furigana": ""
       }
     ],
-    "translation": "屬於自然 屬於突然 哪一派"
+    "translation": "屬於自然屬於突然哪一派"
   },
   {
-    "startTime": 79.8,
+    "startTime": 105.18,
     "words": [
       {
         "text": "愛情必然的傷感",
@@ -30,7 +40,7 @@
     "translation": "愛情必然的傷感"
   },
   {
-    "startTime": 105.14,
+    "startTime": 139.78,
     "words": [
       {
         "text": "愛你必要的看開",
@@ -40,23 +50,13 @@
     "translation": "愛你必要的看開"
   },
   {
-    "startTime": 135.46,
+    "startTime": 166.06,
     "words": [
       {
-        "text": "原來無奈 對上無賴 就無關",
+        "text": "原來無奈對上無賴就無關",
         "furigana": ""
       }
     ],
-    "translation": "原來無奈 對上無賴 就無關"
-  },
-  {
-    "startTime": 157.0,
-    "words": [
-      {
-        "text": "我認栽 雙手一攤",
-        "furigana": ""
-      }
-    ],
-    "translation": "我認栽 雙手一攤"
+    "translation": "原來無奈對上無賴就無關"
   }
 ]
