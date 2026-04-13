@@ -1,0 +1,698 @@
+[
+  {
+    "startTime": 30.82,
+    "words": [
+      {
+        "text": "あなたの",
+        "furigana": null
+      },
+      {
+        "text": "名前",
+        "furigana": "なまえ"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "口",
+        "furigana": "くち"
+      },
+      {
+        "text": "ずさむ",
+        "furigana": null
+      }
+    ],
+    "translation": "輕聲哼唱你的名字"
+  },
+  {
+    "startTime": 37.26,
+    "words": [
+      {
+        "text": "あなたの",
+        "furigana": null
+      },
+      {
+        "text": "口癖",
+        "furigana": "くちぐせ"
+      },
+      {
+        "text": " ",
+        "furigana": null
+      },
+      {
+        "text": "思い出",
+        "furigana": "おもいだ"
+      },
+      {
+        "text": "す",
+        "furigana": null
+      }
+    ],
+    "translation": "想起你的口頭禪"
+  },
+  {
+    "startTime": 43.72,
+    "words": [
+      {
+        "text": "あなたは",
+        "furigana": null
+      },
+      {
+        "text": "此処",
+        "furigana": "こ"
+      },
+      {
+        "text": "にはいないのに",
+        "furigana": null
+      }
+    ],
+    "translation": "你明明不在這裡"
+  },
+  {
+    "startTime": 51.04,
+    "words": [
+      {
+        "text": "あなたの",
+        "furigana": null
+      },
+      {
+        "text": "笑顔",
+        "furigana": "えがお"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "浮",
+        "furigana": "う"
+      },
+      {
+        "text": "かべてる",
+        "furigana": null
+      }
+    ],
+    "translation": "卻浮現你的笑容"
+  },
+  {
+    "startTime": 57.9,
+    "words": [
+      {
+        "text": "燃",
+        "furigana": "も"
+      },
+      {
+        "text": "やしあって ",
+        "furigana": null
+      },
+      {
+        "text": "冷",
+        "furigana": "ひ"
+      },
+      {
+        "text": "やしあって",
+        "furigana": null
+      }
+    ],
+    "translation": "互相燃燒 互相冷卻"
+  },
+  {
+    "startTime": 61.28,
+    "words": [
+      {
+        "text": "枯",
+        "furigana": "か"
+      },
+      {
+        "text": "らしあって ",
+        "furigana": null
+      },
+      {
+        "text": "咲",
+        "furigana": "さ"
+      },
+      {
+        "text": "かせあって",
+        "furigana": null
+      }
+    ],
+    "translation": "互相枯萎 互相綻放"
+  },
+  {
+    "startTime": 64.76,
+    "words": [
+      {
+        "text": "奪",
+        "furigana": "うば"
+      },
+      {
+        "text": "い",
+        "furigana": null
+      },
+      {
+        "text": "合",
+        "furigana": "あ"
+      },
+      {
+        "text": "って ",
+        "furigana": null
+      },
+      {
+        "text": "届",
+        "furigana": "とど"
+      },
+      {
+        "text": "けあって",
+        "furigana": null
+      }
+    ],
+    "translation": "互相爭奪 互相傳達"
+  },
+  {
+    "startTime": 68.2,
+    "words": [
+      {
+        "text": "分",
+        "furigana": "わ"
+      },
+      {
+        "text": "かち",
+        "furigana": null
+      },
+      {
+        "text": "合",
+        "furigana": "あ"
+      },
+      {
+        "text": "った",
+        "furigana": null
+      }
+    ],
+    "translation": "互相分享"
+  },
+  {
+    "startTime": 70.8,
+    "words": [
+      {
+        "text": "せいめい",
+        "furigana": null
+      }
+    ],
+    "translation": "生命"
+  },
+  {
+    "startTime": 72.82,
+    "words": [
+      {
+        "text": "いのちは",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "生命會回歸嗎"
+  },
+  {
+    "startTime": 78.52,
+    "words": [
+      {
+        "text": "空",
+        "furigana": "そら"
+      },
+      {
+        "text": "へと",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "會回歸天空嗎"
+  },
+  {
+    "startTime": 85.66,
+    "words": [
+      {
+        "text": "せいめい",
+        "furigana": null
+      }
+    ],
+    "translation": "生命"
+  },
+  {
+    "startTime": 86.38,
+    "words": [
+      {
+        "text": "いのちは",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "生命會回歸嗎"
+  },
+  {
+    "startTime": 92.28,
+    "words": [
+      {
+        "text": "空",
+        "furigana": "そら"
+      },
+      {
+        "text": "へと",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "會回歸天空嗎"
+  },
+  {
+    "startTime": 111.56,
+    "words": [
+      {
+        "text": "私",
+        "furigana": "わたし"
+      },
+      {
+        "text": " の",
+        "furigana": null
+      },
+      {
+        "text": "守",
+        "furigana": "まも"
+      },
+      {
+        "text": "りたいものと あなたの",
+        "furigana": null
+      },
+      {
+        "text": "守",
+        "furigana": "まも"
+      },
+      {
+        "text": "りたいものは",
+        "furigana": null
+      }
+    ],
+    "translation": "我所想守護的事物 和你所想守護的事物"
+  },
+  {
+    "startTime": 118.08,
+    "words": [
+      {
+        "text": "もともとひとつの ",
+        "furigana": null
+      },
+      {
+        "text": "光",
+        "furigana": "ひかり"
+      },
+      {
+        "text": " だったのに",
+        "furigana": null
+      }
+    ],
+    "translation": "明明原本是同一道光芒"
+  },
+  {
+    "startTime": 153.6,
+    "words": [
+      {
+        "text": "私",
+        "furigana": "わたし"
+      },
+      {
+        "text": " の",
+        "furigana": null
+      },
+      {
+        "text": "旅路",
+        "furigana": "たびじ"
+      },
+      {
+        "text": "を",
+        "furigana": null
+      },
+      {
+        "text": "話",
+        "furigana": "はな"
+      },
+      {
+        "text": "しましょう",
+        "furigana": null
+      }
+    ],
+    "translation": "讓我訴說我的旅程吧"
+  },
+  {
+    "startTime": 158.4,
+    "words": [
+      {
+        "text": "私",
+        "furigana": "わたし"
+      },
+      {
+        "text": " ",
+        "furigana": null
+      },
+      {
+        "text": "の",
+        "furigana": null
+      },
+      {
+        "text": "後悔",
+        "furigana": "こうかい"
+      },
+      {
+        "text": " ",
+        "furigana": null
+      },
+      {
+        "text": "話",
+        "furigana": "はな"
+      },
+      {
+        "text": "し",
+        "furigana": null
+      },
+      {
+        "text": "ましょう",
+        "furigana": null
+      }
+    ],
+    "translation": "讓我訴說我的後悔吧"
+  },
+  {
+    "startTime": 165.46,
+    "words": [
+      {
+        "text": "あなたは",
+        "furigana": null
+      },
+      {
+        "text": "此処",
+        "furigana": "こ"
+      },
+      {
+        "text": "にはいないけど",
+        "furigana": null
+      }
+    ],
+    "translation": "你雖然不在這裡"
+  },
+  {
+    "startTime": 172.18,
+    "words": [
+      {
+        "text": "きっと",
+        "furigana": null
+      },
+      {
+        "text": "笑",
+        "furigana": "わら"
+      },
+      {
+        "text": "ってくれるでしょう",
+        "furigana": null
+      }
+    ],
+    "translation": "但一定會為我而笑吧"
+  },
+  {
+    "startTime": 179.88,
+    "words": [
+      {
+        "text": "せいめい",
+        "furigana": null
+      }
+    ],
+    "translation": "生命"
+  },
+  {
+    "startTime": 180.06,
+    "words": [
+      {
+        "text": "いのちは",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "生命會回歸嗎"
+  },
+  {
+    "startTime": 180.06,
+    "words": [
+      {
+        "text": "空",
+        "furigana": "そら"
+      },
+      {
+        "text": "へと",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "會回歸天空嗎"
+  },
+  {
+    "startTime": 216.14,
+    "words": [
+      {
+        "text": "せいめい",
+        "furigana": null
+      }
+    ],
+    "translation": "生命"
+  },
+  {
+    "startTime": 216.14,
+    "words": [
+      {
+        "text": "いのちは",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "生命會回歸嗎"
+  },
+  {
+    "startTime": 221.08,
+    "words": [
+      {
+        "text": "空",
+        "furigana": "そら"
+      },
+      {
+        "text": "へと ",
+        "furigana": null
+      },
+      {
+        "text": "空",
+        "furigana": "そら"
+      },
+      {
+        "text": "へと ",
+        "furigana": null
+      },
+      {
+        "text": "嗚呼",
+        "furigana": "ああ"
+      }
+    ],
+    "translation": "回到天空 回到天空 啊"
+  },
+  {
+    "startTime": 226.46,
+    "words": [
+      {
+        "text": "せいめい",
+        "furigana": null
+      }
+    ],
+    "translation": "生命"
+  },
+  {
+    "startTime": 226.46,
+    "words": [
+      {
+        "text": "いのちは",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "生命會回歸嗎"
+  },
+  {
+    "startTime": 226.46,
+    "words": [
+      {
+        "text": "空",
+        "furigana": "そら"
+      },
+      {
+        "text": "へと",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "會回歸天空嗎"
+  },
+  {
+    "startTime": 227.64,
+    "words": [
+      {
+        "text": "せいめい",
+        "furigana": null
+      }
+    ],
+    "translation": "生命"
+  },
+  {
+    "startTime": 227.86,
+    "words": [
+      {
+        "text": "いのちは",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "生命會回歸嗎"
+  },
+  {
+    "startTime": 234.26,
+    "words": [
+      {
+        "text": "空",
+        "furigana": "そら"
+      },
+      {
+        "text": "へと",
+        "furigana": null
+      },
+      {
+        "text": "還",
+        "furigana": "かえ"
+      },
+      {
+        "text": "りますか",
+        "furigana": null
+      }
+    ],
+    "translation": "會回歸天空嗎"
+  },
+  {
+    "startTime": 255.2,
+    "words": [
+      {
+        "text": "私",
+        "furigana": "わたし"
+      },
+      {
+        "text": " の",
+        "furigana": null
+      },
+      {
+        "text": "守",
+        "furigana": "まも"
+      },
+      {
+        "text": "りたいものと あなたの",
+        "furigana": null
+      },
+      {
+        "text": "守",
+        "furigana": "まも"
+      },
+      {
+        "text": "りたいものは",
+        "furigana": null
+      }
+    ],
+    "translation": "我所想守護的事物 和你所想守護的事物"
+  },
+  {
+    "startTime": 294.62,
+    "words": [
+      {
+        "text": "もともとひとつの ",
+        "furigana": null
+      },
+      {
+        "text": "光",
+        "furigana": "ひかり"
+      },
+      {
+        "text": " だったのに",
+        "furigana": null
+      }
+    ],
+    "translation": "明明原本是同一道光芒"
+  }
+]
