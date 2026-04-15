@@ -99,12 +99,8 @@
     "startTime": 39.9,
     "words": [
       {
-        "text": "せんせ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": "ー"
+        "text": "せんせー",
+        "furigana": "あなたー"
       },
       {
         "text": "の",
@@ -179,9 +175,13 @@
     "startTime": 56.48,
     "words": [
       {
-        "text": "せんせーの",
-        "furigana": null
+        "text": "せんせー",
+        "furigana": "あなたー"
       },
+      {
+        "text": "の",
+        "furigana": null
+      },      
       {
         "text": "言葉",
         "furigana": "ことば"
@@ -599,7 +599,11 @@
     "startTime": 119.2,
     "words": [
       {
-        "text": "せんせーの",
+        "text": "せんせー",
+        "furigana": "あなたー"
+      },
+      {
+        "text": "の",
         "furigana": null
       },
       {
@@ -830,10 +834,10 @@
     "words": [
       {
         "text": "せんせい",
-        "furigana": null
+        "furigana": "あなた"
       }
     ],
-    "translation": "先生"
+    "translation": "老師"
   },
   {
     "startTime": 130.32,
@@ -1025,9 +1029,13 @@
     "startTime": 246.42,
     "words": [
       {
-        "text": "せんせーに",
-        "furigana": null
+        "text": "せんせー",
+        "furigana": "あなたー"
       },
+      {
+        "text": "に",
+        "furigana": null
+      },      
       {
         "text": "贈",
         "furigana": "おく"
