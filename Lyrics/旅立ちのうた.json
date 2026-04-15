@@ -108,7 +108,7 @@
       },
       {
         "text": "先",
-        "furigana": "あなた さき"
+        "furigana": "さき"
       },
       {
         "text": "へと",
@@ -392,7 +392,7 @@
       },
       {
         "text": "新",
-        "furigana": "しん"
+        "furigana": "あたら"
       },
       {
         "text": " ",
@@ -422,7 +422,7 @@
     "translation": "離別的時刻 站在新的道路前"
   },
   {
-    "startTime": 112.82,
+    "startTime": 120.82,
     "words": [
       {
         "text": "少",
@@ -434,7 +434,7 @@
       },
       {
         "text": "戶",
-        "furigana": ""
+        "furigana": "と"
       },
       {
         "text": "う",
@@ -456,7 +456,7 @@
     "translation": "請給我一點點 猶豫的時間"
   },
   {
-    "startTime": 112.82,
+    "startTime": 129.78,
     "words": [
       {
         "text": "旅立",
@@ -470,7 +470,7 @@
     "translation": "這首啟程之歌"
   },
   {
-    "startTime": 112.82,
+    "startTime": 141.24,
     "words": [
       {
         "text": "風",
@@ -508,7 +508,7 @@
     "translation": "風吹著 像是翻閱相簿一樣"
   },
   {
-    "startTime": 112.84,
+    "startTime": 153.08,
     "words": [
       {
         "text": "嗚呼",
@@ -528,7 +528,7 @@
       },
       {
         "text": "輝",
-        "furigana": "てる"
+        "furigana": "かがや"
       },
       {
         "text": " ",
@@ -558,7 +558,7 @@
     "translation": "啊啊 所有的一切 都閃閃發光 如此溫柔"
   },
   {
-    "startTime": 119.2,
+    "startTime": 166.08,
     "words": [
       {
         "text": "誰",
@@ -596,7 +596,7 @@
     "translation": "比任何人都還要理解我們"
   },
   {
-    "startTime": 119.2,
+    "startTime": 179.08,
     "words": [
       {
         "text": "せんせー",
@@ -640,13 +640,13 @@
       },
       {
         "text": "道標",
-        "furigana": "どうひょう"
+        "furigana": "みちしるべ"
       }
     ],
     "translation": "老師的教誨 從今天起 也定是我的指引"
   },
   {
-    "startTime": 123.24,
+    "startTime": 191.00,
     "words": [
       {
         "text": "さくら",
@@ -692,7 +692,7 @@
     "translation": "櫻花 櫻花 櫻花,紛紛飄落"
   },
   {
-    "startTime": 123.24,
+    "startTime": 204.08,
     "words": [
       {
         "text": "僕",
@@ -734,7 +734,7 @@
     "translation": "我們的時光 思緒不斷滿溢而出"
   },
   {
-    "startTime": 126.02,
+    "startTime": 216.43,
     "words": [
       {
         "text": "わかってるけど",
@@ -784,7 +784,7 @@
     "translation": "雖然明白 卻動彈不得 只是望著天空"
   },
   {
-    "startTime": 126.52,
+    "startTime": 230.08,
     "words": [
       {
         "text": "別",
@@ -830,20 +830,14 @@
     "translation": "離別的時刻 謝謝您 我最喜歡您了"
   },
   {
-    "startTime": 129.78,
+    "startTime": 242.42,
     "words": [
       {
-        "text": "せんせい",
-        "furigana": "あなた"
-      }
-    ],
-    "translation": "老師"
-  },
-  {
-    "startTime": 130.32,
-    "words": [
+        "text": "せんせー",
+        "furigana": "あなたー"
+      },
       {
-        "text": "あなたの",
+        "text": "の",
         "furigana": null
       },
       {
@@ -878,7 +872,7 @@
     "translation": "背負著老師的鼓勵"
   },
   {
-    "startTime": 130.32,
+    "startTime": 251.24,
     "words": [
       {
         "text": "旅立",
@@ -892,7 +886,7 @@
     "translation": "這首啟程之歌"
   },
   {
-    "startTime": 167.08,
+    "startTime": 281.58,
     "words": [
       {
         "text": "僕",
@@ -942,7 +936,7 @@
     "translation": "我們的時光 那間逐漸遠去的校舍"
   },
   {
-    "startTime": 229.36,
+    "startTime": 293.36,
     "words": [
       {
         "text": "たいせつな",
@@ -976,7 +970,7 @@
     "translation": "重要的朋友 人生的導師 全部都在那裡"
   },
   {
-    "startTime": 232.28,
+    "startTime": 307.28,
     "words": [
       {
         "text": "別",
@@ -1026,7 +1020,7 @@
     "translation": "離別的時刻 我們即將畢業"
   },
   {
-    "startTime": 246.42,
+    "startTime": 319.42,
     "words": [
       {
         "text": "せんせー",
@@ -1060,7 +1054,7 @@
     "translation": "獻給老師 代替感謝的"
   },
   {
-    "startTime": 251.74,
+    "startTime": 329.74,
     "words": [
       {
         "text": "旅立",
