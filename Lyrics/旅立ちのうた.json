@@ -3,24 +3,6 @@
     "startTime": 20.88,
     "words": [
       {
-        "text": "旅立",
-        "furigana": "たびだ"
-      },
-      {
-        "text": "ち",
-        "furigana": null
-      },
-      {
-        "text": "のうた",
-        "furigana": null
-      }
-    ],
-    "translation": "3年年E組組"
-  },
-  {
-    "startTime": 48.58,
-    "words": [
-      {
         "text": "風",
         "furigana": "かぜ"
       },
@@ -72,7 +54,7 @@
     "translation": "風吹著 像是推著我的肩膀"
   },
   {
-    "startTime": 83.16,
+    "startTime": 51.06,
     "words": [
       {
         "text": "嗚呼",
@@ -114,11 +96,15 @@
     "translation": "啊啊 該前進的道路 如今"
   },
   {
-    "startTime": 112.82,
+    "startTime": 83.16,
     "words": [
       {
-        "text": "せんせー",
+        "text": "せんせ",
         "furigana": "あなた"
+      },
+      {
+        "text": "ー",
+        "furigana": "ー"
       },
       {
         "text": "の",
@@ -136,7 +122,7 @@
     "translation": "朝著老師的前方"
   },
   {
-    "startTime": 119.18,
+    "startTime": 112.82,
     "words": [
       {
         "text": "自分",
@@ -190,10 +176,14 @@
     "translation": "曾經對自己放棄的我 是你為我點亮了光芒"
   },
   {
-    "startTime": 123.24,
+    "startTime": 119.18,
     "words": [
       {
-        "text": "せんせーの",
+        "text": "せんせー",
+        "furigana": "あなた"
+      },
+      {
+        "text": "の",
         "furigana": null
       },
       {
@@ -236,7 +226,7 @@
     "translation": "老師的話語 還有人生態度 我絕對不會忘記"
   },
   {
-    "startTime": 126.52,
+    "startTime": 123.24,
     "words": [
       {
         "text": "さくら",
@@ -282,7 +272,7 @@
     "translation": "櫻花 櫻花 櫻花,紛紛飄落"
   },
   {
-    "startTime": 166.06,
+    "startTime": 126.52,
     "words": [
       {
         "text": "僕",
@@ -328,7 +318,7 @@
     "translation": "為了真正地 結束我們的時光"
   },
   {
-    "startTime": 206.71,
+    "startTime": 166.06,
     "words": [
       {
         "text": "約束",
@@ -382,7 +372,7 @@
     "translation": "我想好好遵守 實現約定的承諾"
   },
   {
-    "startTime": 229.36,
+    "startTime": 206.71,
     "words": [
       {
         "text": "別",
@@ -436,7 +426,7 @@
     "translation": "離別的時刻 站在新的道路前"
   },
   {
-    "startTime": 245.57,
+    "startTime": 229.36,
     "words": [
       {
         "text": "少",
@@ -468,5 +458,19 @@
       }
     ],
     "translation": "請給我一點點 猶豫的時間"
+  },
+  {
+    "startTime": 245.57,
+    "words": [
+      {
+        "text": "旅立",
+        "furigana": "たびだ"
+      },
+      {
+        "text": "ちのうた",
+        "furigana": null
+      }
+    ],
+    "translation": "這首啟程之歌"
   }
 ]
