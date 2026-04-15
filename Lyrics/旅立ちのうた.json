@@ -216,7 +216,7 @@
     "translation": "櫻花 櫻花 櫻花,紛紛飄落"
   },
   {
-    "startTime": 84.88,
+    "startTime": 84.86,
     "words": [
       {
         "text": "僕",
@@ -374,20 +374,6 @@
       }
     ],
     "translation": "請給我一點點 猶豫的時間"
-  },
-  {
-    "startTime": 112.82,
-    "words": [
-      {
-        "text": "旅立",
-        "furigana": "たびだ"
-      },
-      {
-        "text": "ちのうた",
-        "furigana": null
-      }
-    ],
-    "translation": "這首啟程之歌"
   },
   {
     "startTime": 112.82,
@@ -616,7 +602,7 @@
     "translation": "雖然明白 卻動彈不得 只是望著天空"
   },
   {
-    "startTime": 126.52,
+    "startTime": 126.5,
     "words": [
       {
         "text": "別",
@@ -646,7 +632,7 @@
     "translation": "離別的時刻 謝謝您 我最喜歡您了"
   },
   {
-    "startTime": 129.78,
+    "startTime": 132.6,
     "words": [
       {
         "text": "せんせい",
@@ -656,7 +642,7 @@
     "translation": "先生"
   },
   {
-    "startTime": 130.32,
+    "startTime": 179.34,
     "words": [
       {
         "text": "あなたの",
@@ -690,21 +676,7 @@
     "translation": "背負著老師的鼓勵"
   },
   {
-    "startTime": 130.32,
-    "words": [
-      {
-        "text": "旅立",
-        "furigana": "たびだ"
-      },
-      {
-        "text": "ちのうた",
-        "furigana": null
-      }
-    ],
-    "translation": "這首啟程之歌"
-  },
-  {
-    "startTime": 167.08,
+    "startTime": 206.46,
     "words": [
       {
         "text": "僕",
@@ -746,7 +718,7 @@
     "translation": "我們的時光 那間逐漸遠去的校舍"
   },
   {
-    "startTime": 229.36,
+    "startTime": 229.38,
     "words": [
       {
         "text": "たいせつな",
@@ -818,7 +790,7 @@
     "translation": "離別的時刻 我們即將畢業"
   },
   {
-    "startTime": 246.42,
+    "startTime": 246.46,
     "words": [
       {
         "text": "せんせーに",
@@ -846,19 +818,5 @@
       }
     ],
     "translation": "獻給老師 代替感謝的"
-  },
-  {
-    "startTime": 251.74,
-    "words": [
-      {
-        "text": "旅立",
-        "furigana": "たびだ"
-      },
-      {
-        "text": "ちのうた",
-        "furigana": null
-      }
-    ],
-    "translation": "這首啟程之歌"
   }
 ]
