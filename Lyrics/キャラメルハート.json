@@ -753,20 +753,8 @@
         "furigana": null
       },
       {
-        "text": "ド",
-        "furigana": null
-      },
-      {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ド",
-        "furigana": null
-      },
-      {
-        "text": "キ",
-        "furigana": null
+        "text": "ドキドキ",
+        "furigana": "どきどき"
       },
       {
         "text": "す",
@@ -893,24 +881,8 @@
         "furigana": null
       },
       {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ャ",
-        "furigana": null
-      },
-      {
-        "text": "ラ",
-        "furigana": null
-      },
-      {
-        "text": "メ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
+        "text": "キャラメル",
+        "furigana": "きゃらめる"
       },
       {
         "text": "み",
@@ -941,12 +913,8 @@
         "furigana": null
       },
       {
-        "text": "ニ",
-        "furigana": null
-      },
-      {
-        "text": "ヤ",
-        "furigana": null
+        "text": "ニヤ",
+        "furigana": "にや"
       },
       {
         "text": "っ",
@@ -1029,12 +997,8 @@
     "startTime": 46.01,
     "words": [
       {
-        "text": "ビ",
-        "furigana": null
-      },
-      {
-        "text": "タ",
-        "furigana": null
+        "text": "ビタ",
+        "furigana": "びた"
       },
       {
         "text": "ー",
@@ -1061,24 +1025,8 @@
         "furigana": null
       },
       {
-        "text": "ス",
-        "furigana": null
-      },
-      {
-        "text": "ウ",
-        "furigana": null
-      },
-      {
-        "text": "ィ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "スウィート",
+        "furigana": "すうぃーと"
       },
       {
         "text": "ど",
@@ -1143,12 +1091,8 @@
     "startTime": 50.02,
     "words": [
       {
-        "text": "ビ",
-        "furigana": null
-      },
-      {
-        "text": "タ",
-        "furigana": null
+        "text": "ビタ",
+        "furigana": "びた"
       },
       {
         "text": "ー",
@@ -1175,24 +1119,8 @@
         "furigana": null
       },
       {
-        "text": "ス",
-        "furigana": null
-      },
-      {
-        "text": "ウ",
-        "furigana": null
-      },
-      {
-        "text": "ィ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "スウィート",
+        "furigana": "すうぃーと"
       },
       {
         "text": "2",
@@ -1707,36 +1635,8 @@
         "furigana": null
       },
       {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ャ",
-        "furigana": null
-      },
-      {
-        "text": "ラ",
-        "furigana": null
-      },
-      {
-        "text": "メ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
-      },
-      {
-        "text": "ハ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "キャラメルハート",
+        "furigana": "きゃらめるはーと"
       }
     ],
     "translation": ""
@@ -2333,36 +2233,8 @@
         "furigana": null
       },
       {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ャ",
-        "furigana": null
-      },
-      {
-        "text": "ラ",
-        "furigana": null
-      },
-      {
-        "text": "メ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
-      },
-      {
-        "text": "ハ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "キャラメルハート",
+        "furigana": "きゃらめるはーと"
       }
     ],
     "translation": ""
@@ -2445,16 +2317,8 @@
     "startTime": 102.98,
     "words": [
       {
-        "text": "コ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ヒ",
-        "furigana": null
+        "text": "コーヒ",
+        "furigana": "こーひ"
       },
       {
         "text": "ー",
@@ -2477,16 +2341,8 @@
         "furigana": null
       },
       {
-        "text": "シ",
-        "furigana": null
-      },
-      {
-        "text": "ュ",
-        "furigana": null
-      },
-      {
-        "text": "ガ",
-        "furigana": null
+        "text": "シュガ",
+        "furigana": "しゅが"
       },
       {
         "text": "ー",
@@ -2681,16 +2537,8 @@
         "furigana": null
       },
       {
-        "text": "ミ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
-      },
-      {
-        "text": "ク",
-        "furigana": null
+        "text": "ミルク",
+        "furigana": "みるく"
       },
       {
         "text": "も",
@@ -3199,36 +3047,8 @@
         "furigana": null
       },
       {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ャ",
-        "furigana": null
-      },
-      {
-        "text": "ラ",
-        "furigana": null
-      },
-      {
-        "text": "メ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
-      },
-      {
-        "text": "ハ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "キャラメルハート",
+        "furigana": "きゃらめるはーと"
       }
     ],
     "translation": ""
@@ -3817,36 +3637,8 @@
         "furigana": null
       },
       {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ャ",
-        "furigana": null
-      },
-      {
-        "text": "ラ",
-        "furigana": null
-      },
-      {
-        "text": "メ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
-      },
-      {
-        "text": "ハ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "キャラメルハート",
+        "furigana": "きゃらめるはーと"
       }
     ],
     "translation": ""
@@ -4503,36 +4295,8 @@
         "furigana": null
       },
       {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ャ",
-        "furigana": null
-      },
-      {
-        "text": "ラ",
-        "furigana": null
-      },
-      {
-        "text": "メ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
-      },
-      {
-        "text": "ハ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "キャラメルハート",
+        "furigana": "きゃらめるはーと"
       }
     ],
     "translation": ""
@@ -4693,36 +4457,8 @@
         "furigana": null
       },
       {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ャ",
-        "furigana": null
-      },
-      {
-        "text": "ラ",
-        "furigana": null
-      },
-      {
-        "text": "メ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
-      },
-      {
-        "text": "ハ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "キャラメルハート",
+        "furigana": "きゃらめるはーと"
       }
     ],
     "translation": ""
@@ -5319,36 +5055,8 @@
         "furigana": null
       },
       {
-        "text": "キ",
-        "furigana": null
-      },
-      {
-        "text": "ャ",
-        "furigana": null
-      },
-      {
-        "text": "ラ",
-        "furigana": null
-      },
-      {
-        "text": "メ",
-        "furigana": null
-      },
-      {
-        "text": "ル",
-        "furigana": null
-      },
-      {
-        "text": "ハ",
-        "furigana": null
-      },
-      {
-        "text": "ー",
-        "furigana": null
-      },
-      {
-        "text": "ト",
-        "furigana": null
+        "text": "キャラメルハート",
+        "furigana": "きゃらめるはーと"
       }
     ],
     "translation": ""
